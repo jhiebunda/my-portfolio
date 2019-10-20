@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "my web portfolio",
   "main": "index.js",
-  "homepage": "https://github.io/jhiebunda/my-portfolio",
+  "homepage": "https://github.io/jhiebunda/my-web-portfolio",
   "directories": {
     "lib": "lib"
   },
