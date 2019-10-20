@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "description": "my web portfolio",
   "main": "index.js",
+  "homepage": "https://github.io/jhiebunda/my-portfolio",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/jhiebunda/my-portfolio/issues"
   },
-  "homepage": "https://github.com/jhiebunda/my-portfolio#readme",
+  
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
